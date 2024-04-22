@@ -1,6 +1,6 @@
 import WebSocket from 'ws';
 
-const nodeurl = 'wss://wiser-ultra-pool.bsc.discover.quiknode.pro/79609b59a09dce2f1515396c0620f38bbdb64e64/';
+const nodeurl = 'NODE-URL';
 const wsMempool = new WebSocket(nodeurl);
 const wsBlocks = new WebSocket(nodeurl);
 const blocks = [];
