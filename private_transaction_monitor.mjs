@@ -25,12 +25,9 @@ function cleanupMempool(publicTxs, blockNumber) {
 }
 
 function displayBlockInfo(block){
-
     console.log("\n\nBlock Number:", block.number);
     console.log("Block Hash:", block.hash);
     console.log("Private:", block.privateTxNumber,"\t","Public:", block.publicTxNumber,"\t","Total:", block.privateTxNumber + block.publicTxNumber);
-
-
 }
 
 async function removePublicTxs() {
