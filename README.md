@@ -10,7 +10,7 @@ MEV-Protected-Transaction-Detector
 
 <h2>Description</h2>
 
-<p>This program is a JavaScript application designed to capture private transactions in real-time as the newest block generated. It utilizes WebSocket connections to subscribe to new block headers and mempool transactions, enabling the extraction of private transaction frequency information in the last block.</p>
+<p>This program is a JavaScript application designed to capture MEV Protected transactions (e.g. usage of FlashBots) in real-time as the newest block generated. It utilizes WebSocket connections to subscribe to new block headers and mempool transactions, enabling the extraction of private transaction frequency information in the last block.</p>
 
 <h2>Features</h2>
 
