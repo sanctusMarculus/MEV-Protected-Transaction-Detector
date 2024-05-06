@@ -4,7 +4,9 @@
 </head>
 <body>
 
-<h1>Real-Time Private Transaction Monitor</h1>
+<h1>
+MEV-Protected-Transaction-Detector
+</h1>
 
 <h2>Description</h2>
 
