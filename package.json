@@ -1,0 +1,22 @@
+{
+  "name": "mev-protected-transaction-detector",
+  "version": "1.0.0",
+  "description": "An Application designed to capture private transactions at certain chains in real-time as the newest block generated",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanctusMarculus/MEV-Protected-Transaction-Detector.git"
+  },
+  "author": "sanctusMarculus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanctusMarculus/MEV-Protected-Transaction-Detector/issues"
+  },
+  "homepage": "https://github.com/sanctusMarculus/MEV-Protected-Transaction-Detector#readme",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
